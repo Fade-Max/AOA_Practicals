@@ -1,0 +1,5 @@
+Julia
+https://juliahub.com/ui/Packages?t=ant-colony-optimization
+https://docs.julialang.org/en/v1/manual/integers-and-floating-point-numbers/#Background-and-References
+https://julialang.org/learning/
+https://docs.julialang.org/en/v1/
